@@ -31,7 +31,7 @@ lista = [
 ]
 =end
 
-seleccion = "karl"
+seleccion = "Erick Rojas Arias"
 
 discos = {
   "Alonso Viales Arrieta" => "This Was (1968)",
@@ -63,4 +63,4 @@ discos = {
   "Sebastián Jiménez" => "Homo Erraticus"
 }
 
-puts discos[This Was (1968)]
+puts discos[seleccion]
